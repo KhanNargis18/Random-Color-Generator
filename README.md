@@ -3,10 +3,10 @@ A simple web application that generates random background colors. When the user 
 
 ### Weblink: [Live Website](https://random-color-generator-henna-nu.vercel.app/)
 ## Some Images:
-<img width="450px;" src="https://github.com/user-attachments/assets/630b3ae4-4af9-4a26-b635-20f3472d6d12"/>
-<img width="450px;" src="https://github.com/user-attachments/assets/a0593922-8c43-419e-8ef9-517dae182229"/>
-<img width="450px;" src="https://github.com/user-attachments/assets/e9d59e59-3e83-424c-95bb-8c55c230e084"/>
-<img width="450px;" src="https://github.com/user-attachments/assets/a69828ca-628b-4f81-be8f-7316ae9a2908"/>
+<img width="400px;" src="https://github.com/user-attachments/assets/630b3ae4-4af9-4a26-b635-20f3472d6d12"/>
+<img width="400px;" src="https://github.com/user-attachments/assets/a0593922-8c43-419e-8ef9-517dae182229"/>
+<img width="400px;" src="https://github.com/user-attachments/assets/e9d59e59-3e83-424c-95bb-8c55c230e084"/>
+<img width="400px;" src="https://github.com/user-attachments/assets/a69828ca-628b-4f81-be8f-7316ae9a2908"/>
 
 
 ## Table of Contents
