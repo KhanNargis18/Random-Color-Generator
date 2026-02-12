@@ -1,4 +1,4 @@
-# 🎨Random-Color-Generator
+# 🎨Random Color Generator
 A simple web application that generates random background colors. When the user clicks the generate button, the app changes the background color, displays the HEX code, and automatically copies it to the clipboard.
 
 ### Weblink: [Live Website](https://random-color-generator-henna-nu.vercel.app/)
